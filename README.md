@@ -32,3 +32,4 @@ vous pourvez s'inspirer du site marocannonces pour l'affichage des offres d'empl
 - SGBD : MySQL ou PostgreSQL.
 - Outils : Git, Github, Jira/Trello.
 
+Here is the link to the front-end of this project [MyRH_Back-end_Spring-boot](https://github.com/nemliProg/MyRH_Back-end_Spring-boot.git).
